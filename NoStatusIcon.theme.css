@@ -1,0 +1,13 @@
+/**
+    * @name NoStatusIcon
+    * @version 1.0.0
+    * @description I hate this icon
+    * @author Baguette/Potaters
+    * @source https://github.com/BrandTruong/discord-themes
+    * @website https://github.com/BrandTruong
+**/
+
+.hangStatusIcon__367ef {
+  display: none;
+  visibility: hidden;
+}
